@@ -1,5 +1,7 @@
 body {
-    background-image: url("backgroundhorizontal.JPG")
+    background-image: url("backgroundvertikal.JPG");
+    background-repeat: no-repeat;
+    opacity: 0.2;
 
 
 
