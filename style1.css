@@ -10,11 +10,12 @@ body, html {
     -webkit-font-smoothing: antialiased !important;
     padding-right: 1%;
     padding-left:1%;
-
+    margin:0;
 	color: #666;
 	font-weight: 300;
 	width: 100% !important;
-	height: 100% !important;
+    height: 100% !important;
+   
 	/*
 		Auswahl:
 		#A9F1DF + #FFBBBB
