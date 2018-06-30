@@ -8,8 +8,8 @@ body, html {
     font-family: 'Open Sans', sans-serif;
 	text-rendering: optimizeLegibility !important;
     -webkit-font-smoothing: antialiased !important;
-    padding-right: 30px;
-    padding-left:30px;
+    padding-right: 1%;
+    padding-left:1%;
 
 	color: #666;
 	font-weight: 300;
@@ -43,7 +43,6 @@ main, footer {
 h1 {
 	display: inline;
 	font-size: 8vmax;
-    padding-left: 2vmax;
     font-family: "Times New Roman", Times, serif;
     text-shadow: 0.75px 0.5px  #333;
 
@@ -51,7 +50,7 @@ h1 {
 h2 {
 	display: inline;
 	font-size: 3.5vmax;
-	padding-left: 2vmax;
+	
 	
 	
 }
