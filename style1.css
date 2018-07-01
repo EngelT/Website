@@ -33,6 +33,7 @@ h1 {
 	font-size: 8vmax;
     font-family: "Times New Roman", Times, serif;
     text-shadow: 0.75px 0.5px  #333;
+ 
 
 }
 h2 {
@@ -140,4 +141,8 @@ div.desc {
   
   .sticky + .content {
     padding-top: 60px;
+  }
+.active{
+    background-color: rgb(32, 213, 226);
+
   }
