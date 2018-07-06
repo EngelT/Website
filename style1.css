@@ -147,7 +147,9 @@ div.desc {
     background-color: rgb(32, 213, 226);
     
   }
-
+.link{
+    background-color: azure;
+}
 
   .modal {
     display: none; /* Hidden by default */
